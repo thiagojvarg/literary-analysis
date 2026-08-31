@@ -7,7 +7,7 @@
 **Contexto disponible:**  
 **Limitaciones del análisis:**  
 
-> Si falta información crítica, el análisis debe detenerse antes de continuar.
+> Si falta información crítica para evaluar un aspecto central del texto, el análisis puede detenerse y solicitar esa información. Si la información faltante solo limita determinadas conclusiones, el análisis debe continuar indicando explícitamente la limitación. No pedir contexto innecesario antes de analizar.
 
 ---
 
@@ -392,6 +392,8 @@
 **Ligera / Media / Profunda**
 
 ## Puntuaciones
+
+Las puntuaciones utilizan una escala de 1 a 10. Cuando una categoría no sea pertinente al material recibido, utilizar `N/A — No aplicable` en lugar de una puntuación numérica. No utilizar N/A para omitir evaluaciones de categorías que sí correspondan al texto.
 
 | Aspecto | Puntuación |
 |---|---:|

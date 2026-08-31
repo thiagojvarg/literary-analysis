@@ -31,11 +31,13 @@ El nombre de la carpeta debe coincidir con el campo `name` del frontmatter (`lit
 
 ## Uso
 
-La skill se activa automáticamente cuando el usuario pide un análisis literario, crítico o profesional de una obra narrativa. También puede invocarse manualmente:
+La skill se activa automáticamente cuando el usuario pide un análisis literario, crítico o profesional de una obra narrativa. También puede invocarse manualmente en agentes que admitan invocación mediante comandos `/skill`:
 
 ```text
 /skill literary-analysis [texto o archivo a analizar]
 ```
+
+El mecanismo de instalación y activación puede variar según el agente.
 
 ## Compatibilidad
 

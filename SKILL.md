@@ -1,6 +1,8 @@
 ---
 name: literary-analysis
 description: Analiza cuentos, novelas, capítulos, prólogos, escenas y fragmentos narrativos con una metodología editorial rigurosa. Evalúa coherencia, prosa, ritmo, personajes, diálogos, narración, emociones, tensión, mostrar vs. contar, descripciones, mundo, lógica narrativa, calidad literaria, impacto lector, fortalezas, debilidades y errores concretos, y produce recomendaciones y un veredicto final. Úsala cuando el usuario pida un análisis literario profundo, crítico o profesional de una obra narrativa.
+metadata:
+  version: "1.0.0"
 ---
 
 # Literary Analysis
